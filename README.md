@@ -13,10 +13,9 @@
 
 - 📫 How to reach me **aaron.travasso@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aaron-travasso/](https://www.linkedin.com/in/aaron-travasso/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/aaron-travasso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaron-travasso" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/outerspace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="outerspace" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/outerspace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="outerspace" height="30" width="40" /></a>
 </p>
