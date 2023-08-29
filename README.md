@@ -14,8 +14,9 @@
 ### Stats
 
 
- <p align="center">
+<p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarontravass&show_icons=true&locale=en&layout=compact" alt="aarontravass" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=aarontravass&show_icons=true&locale=en" alt="aarontravass" />
 </p>
 
 
