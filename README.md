@@ -1,1 +1,1 @@
-trying my best to survive
+trying my best to exist
